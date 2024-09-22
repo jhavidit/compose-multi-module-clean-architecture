@@ -1,6 +1,7 @@
-package com.jhavidit.moviedb
+package com.jhavidit.moviedb.bottomnav
 
 import com.jhavidit.home.HomeGraph
+import com.jhavidit.moviedb.R
 import com.jhavidit.profile.ProfileGraph
 import com.jhavidit.search.SearchGraph
 import kotlinx.serialization.Serializable

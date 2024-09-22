@@ -1,4 +1,4 @@
-package com.jhavidit.moviedb
+package com.jhavidit.moviedb.bottomnav
 
 import androidx.compose.foundation.layout.size
 import androidx.compose.material3.Icon

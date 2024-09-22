@@ -42,5 +42,7 @@ dependencies {
 
     implementation(libs.timber)
 
+    implementation(libs.datastore)
+
 
 }

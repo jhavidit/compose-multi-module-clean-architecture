@@ -1,9 +1,10 @@
-package com.jhavidit.moviedb
+package com.jhavidit.moviedb.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import com.jhavidit.home.homeNavGraph
+import com.jhavidit.moviedb.bottomnav.BottomScreens
 import com.jhavidit.profile.profileNavGraph
 import com.jhavidit.search.searchNavGraph
 
